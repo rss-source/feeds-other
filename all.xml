@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss-source.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-06T12:58:22.259Z</updated>
+    <updated>2022-12-06T13:19:03.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[OpenWrt中MosDNS配置 (heartnn的自留地)]]></title>
@@ -451,73 +451,146 @@ on
 </span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mini EV (neugierig)]]></title>
-        <id>http://neugierig.org/software/blog/2022/11/mini.html</id>
-        <link href="http://neugierig.org/software/blog/2022/11/mini.html"/>
-        <updated>2022-11-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[Fun new car.]]></content>
+        <title type="html"><![CDATA[疫情反反复复 (灰常记忆)]]></title>
+        <id>https://bestcherish.com/yi-qing-fan-fan-fu-fu.html</id>
+        <link href="https://bestcherish.com/yi-qing-fan-fan-fu-fu.html"/>
+        <updated>2022-12-06T13:19:03.043Z</updated>
+        <content type="html"><![CDATA[<h1 class="entry-title">
+				<a href="https://bestcherish.com/yi-qing-fan-fan-fu-fu.html" rel="bookmark">疫情反反复复</a>
+			</h1>
+										<div class="comments-link">
+					<a href="https://bestcherish.com/yi-qing-fan-fan-fu-fu.html#comments">9条回复</a>				</div><!-- .comments-link -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[retrowin32, a win32 emulator (neugierig)]]></title>
-        <id>http://neugierig.org/software/blog/2022/10/retrowin32.html</id>
-        <link href="http://neugierig.org/software/blog/2022/10/retrowin32.html"/>
-        <updated>2022-10-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[Small steps towards running my favorite demo again.]]></content>
+        <title type="html"><![CDATA[除除除草 (灰常记忆)]]></title>
+        <id>https://bestcherish.com/chu-chu-chu-cao.html</id>
+        <link href="https://bestcherish.com/chu-chu-chu-cao.html"/>
+        <updated>2022-12-06T13:19:03.043Z</updated>
+        <content type="html"><![CDATA[<h1 class="entry-title">
+				<a href="https://bestcherish.com/chu-chu-chu-cao.html" rel="bookmark">除除除草</a>
+			</h1>
+										<div class="comments-link">
+					<a href="https://bestcherish.com/chu-chu-chu-cao.html#comments">45条回复</a>				</div><!-- .comments-link -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blog software (neugierig)]]></title>
-        <id>http://neugierig.org/software/blog/2022/10/blog-software.html</id>
-        <link href="http://neugierig.org/software/blog/2022/10/blog-software.html"/>
-        <updated>2022-10-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[The boring software I use to make this site.]]></content>
+        <title type="html"><![CDATA[冷暖自知 (灰常记忆)]]></title>
+        <id>https://bestcherish.com/leng-nuan-zi-zhi.html</id>
+        <link href="https://bestcherish.com/leng-nuan-zi-zhi.html"/>
+        <updated>2022-12-06T13:19:03.043Z</updated>
+        <content type="html"><![CDATA[<h1 class="entry-title">
+				<a href="https://bestcherish.com/leng-nuan-zi-zhi.html" rel="bookmark">冷暖自知</a>
+			</h1>
+										<div class="comments-link">
+					<a href="https://bestcherish.com/leng-nuan-zi-zhi.html#comments">39条回复</a>				</div><!-- .comments-link -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Taking a break (neugierig)]]></title>
-        <id>http://neugierig.org/software/blog/2022/09/break.html</id>
-        <link href="http://neugierig.org/software/blog/2022/09/break.html"/>
-        <updated>2022-09-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[My year at Figma.]]></content>
+        <title type="html"><![CDATA[开不开心都要水 (灰常记忆)]]></title>
+        <id>https://bestcherish.com/kai-bu-kai-xin-dou-yao-shui.html</id>
+        <link href="https://bestcherish.com/kai-bu-kai-xin-dou-yao-shui.html"/>
+        <updated>2022-12-06T13:19:03.044Z</updated>
+        <content type="html"><![CDATA[<h1 class="entry-title">
+				<a href="https://bestcherish.com/kai-bu-kai-xin-dou-yao-shui.html" rel="bookmark">开不开心都要水</a>
+			</h1>
+										<div class="comments-link">
+					<a href="https://bestcherish.com/kai-bu-kai-xin-dou-yao-shui.html#comments">8条回复</a>				</div><!-- .comments-link -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WebAssembly and C++ (neugierig)]]></title>
-        <id>http://neugierig.org/software/blog/2022/06/wasm-c++.html</id>
-        <link href="http://neugierig.org/software/blog/2022/06/wasm-c++.html"/>
-        <updated>2022-06-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[C/C++-specific WebAssembly notes.]]></content>
+        <title type="html"><![CDATA[转移域名 (灰常记忆)]]></title>
+        <id>https://bestcherish.com/zhuan-yi-yu-ming.html</id>
+        <link href="https://bestcherish.com/zhuan-yi-yu-ming.html"/>
+        <updated>2022-12-06T13:19:03.044Z</updated>
+        <content type="html"><![CDATA[<h1 class="entry-title">
+				<a href="https://bestcherish.com/zhuan-yi-yu-ming.html" rel="bookmark">转移域名</a>
+			</h1>
+										<div class="comments-link">
+					<a href="https://bestcherish.com/zhuan-yi-yu-ming.html#comments">76条回复</a>				</div><!-- .comments-link -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Notes on WebAssembly (neugierig)]]></title>
-        <id>http://neugierig.org/software/blog/2022/06/wasm-notes.html</id>
-        <link href="http://neugierig.org/software/blog/2022/06/wasm-notes.html"/>
-        <updated>2022-06-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[An advanced beginner's take on WebAssembly.]]></content>
+        <title type="html"><![CDATA[炎热的六月 (灰常记忆)]]></title>
+        <id>https://bestcherish.com/yan-re-de-liu-yue.html</id>
+        <link href="https://bestcherish.com/yan-re-de-liu-yue.html"/>
+        <updated>2022-12-06T13:19:03.044Z</updated>
+        <content type="html"><![CDATA[<h1 class="entry-title">
+				<a href="https://bestcherish.com/yan-re-de-liu-yue.html" rel="bookmark">炎热的六月</a>
+			</h1>
+										<div class="comments-link">
+					<a href="https://bestcherish.com/yan-re-de-liu-yue.html#comments">34条回复</a>				</div><!-- .comments-link -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[n2: revisiting Ninja (neugierig)]]></title>
-        <id>http://neugierig.org/software/blog/2022/03/n2.html</id>
-        <link href="http://neugierig.org/software/blog/2022/03/n2.html"/>
-        <updated>2022-03-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[Back into build systems.]]></content>
+        <title type="html"><![CDATA[五一不快乐 (灰常记忆)]]></title>
+        <id>https://bestcherish.com/wu-yi-bu-kuai-le.html</id>
+        <link href="https://bestcherish.com/wu-yi-bu-kuai-le.html"/>
+        <updated>2022-12-06T13:19:03.051Z</updated>
+        <content type="html"><![CDATA[<h1 class="entry-title">
+				<a href="https://bestcherish.com/wu-yi-bu-kuai-le.html" rel="bookmark">五一不快乐</a>
+			</h1>
+										<div class="comments-link">
+					<a href="https://bestcherish.com/wu-yi-bu-kuai-le.html#comments">67条回复</a>				</div><!-- .comments-link -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rethinking errors, warnings, and lints (neugierig)]]></title>
-        <id>http://neugierig.org/software/blog/2022/01/rethinking-errors.html</id>
-        <link href="http://neugierig.org/software/blog/2022/01/rethinking-errors.html"/>
-        <updated>2022-01-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[Lessons from working on programming language tooling.]]></content>
+        <title type="html"><![CDATA[宝宝半岁了 (灰常记忆)]]></title>
+        <id>https://bestcherish.com/bao-bao-ban-sui-le.html</id>
+        <link href="https://bestcherish.com/bao-bao-ban-sui-le.html"/>
+        <updated>2022-12-06T13:19:03.051Z</updated>
+        <content type="html"><![CDATA[<h1 class="entry-title">
+				<a href="https://bestcherish.com/bao-bao-ban-sui-le.html" rel="bookmark">宝宝半岁了</a>
+			</h1>
+										<div class="comments-link">
+					<a href="https://bestcherish.com/bao-bao-ban-sui-le.html#comments">59条回复</a>				</div><!-- .comments-link -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Leaving Google (neugierig)]]></title>
-        <id>http://neugierig.org/software/blog/2021/07/leaving-google.html</id>
-        <link href="http://neugierig.org/software/blog/2021/07/leaving-google.html"/>
-        <updated>2021-07-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[The end of an era.]]></content>
+        <title type="html"><![CDATA[春天疫情一起来了 (灰常记忆)]]></title>
+        <id>https://bestcherish.com/chun-tian-yi-qing-yi-qi-lai-le.html</id>
+        <link href="https://bestcherish.com/chun-tian-yi-qing-yi-qi-lai-le.html"/>
+        <updated>2022-12-06T13:19:03.051Z</updated>
+        <content type="html"><![CDATA[<h1 class="entry-title">
+				<a href="https://bestcherish.com/chun-tian-yi-qing-yi-qi-lai-le.html" rel="bookmark">春天疫情一起来了</a>
+			</h1>
+										<div class="comments-link">
+					<a href="https://bestcherish.com/chun-tian-yi-qing-yi-qi-lai-le.html#comments">89条回复</a>				</div><!-- .comments-link -->]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scaling TypeScript compilation (neugierig)]]></title>
-        <id>http://neugierig.org/software/blog/2020/10/scaling-typescript.html</id>
-        <link href="http://neugierig.org/software/blog/2020/10/scaling-typescript.html"/>
-        <updated>2020-10-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[Our work on scaling TypeScript to larger projects.]]></content>
+        <title type="html"><![CDATA[年过完了开始搬砖 (灰常记忆)]]></title>
+        <id>https://bestcherish.com/nian-guo-wan-le-kai-shi-ban-zhuan.html</id>
+        <link href="https://bestcherish.com/nian-guo-wan-le-kai-shi-ban-zhuan.html"/>
+        <updated>2022-12-06T13:19:03.055Z</updated>
+        <content type="html"><![CDATA[<h1 class="entry-title">
+				<a href="https://bestcherish.com/nian-guo-wan-le-kai-shi-ban-zhuan.html" rel="bookmark">年过完了开始搬砖</a>
+			</h1>
+										<div class="comments-link">
+					<a href="https://bestcherish.com/nian-guo-wan-le-kai-shi-ban-zhuan.html#comments">46条回复</a>				</div><!-- .comments-link -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[虎年大吉 (灰常记忆)]]></title>
+        <id>https://bestcherish.com/hu-nian-da-ji.html</id>
+        <link href="https://bestcherish.com/hu-nian-da-ji.html"/>
+        <updated>2022-12-06T13:19:03.056Z</updated>
+        <content type="html"><![CDATA[<h1 class="entry-title">
+				<a href="https://bestcherish.com/hu-nian-da-ji.html" rel="bookmark">虎年大吉</a>
+			</h1>
+										<div class="comments-link">
+					<a href="https://bestcherish.com/hu-nian-da-ji.html#comments">23条回复</a>				</div><!-- .comments-link -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[抓住2021的尾巴 (灰常记忆)]]></title>
+        <id>https://bestcherish.com/zhua-zhu-2021-de-wei-ba.html</id>
+        <link href="https://bestcherish.com/zhua-zhu-2021-de-wei-ba.html"/>
+        <updated>2022-12-06T13:19:03.059Z</updated>
+        <content type="html"><![CDATA[<h1 class="entry-title">
+				<a href="https://bestcherish.com/zhua-zhu-2021-de-wei-ba.html" rel="bookmark">抓住2021的尾巴</a>
+			</h1>
+										<div class="comments-link">
+					<a href="https://bestcherish.com/zhua-zhu-2021-de-wei-ba.html#comments">28条回复</a>				</div><!-- .comments-link -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[疫情突然袭来 (灰常记忆)]]></title>
+        <id>https://bestcherish.com/yi-qing-tu-ran-xi-lai.html</id>
+        <link href="https://bestcherish.com/yi-qing-tu-ran-xi-lai.html"/>
+        <updated>2022-12-06T13:19:03.060Z</updated>
+        <content type="html"><![CDATA[<h1 class="entry-title">
+				<a href="https://bestcherish.com/yi-qing-tu-ran-xi-lai.html" rel="bookmark">疫情突然袭来</a>
+			</h1>
+										<div class="comments-link">
+					<a href="https://bestcherish.com/yi-qing-tu-ran-xi-lai.html#comments">47条回复</a>				</div><!-- .comments-link -->]]></content>
     </entry>
 </feed>
