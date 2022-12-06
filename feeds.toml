@@ -1,9 +1,12 @@
-[funfacts]
-title = "Wikipedia — did you know?"
-url = "https://en.wikipedia.org/wiki/Main_Page"
-entrySelector = "#mp-dyk > ul li"
-titleSelector = "b"
-linkSelector = "b a"
+[default]
+timeout = 30
+
+[heartnn]
+title = "heartnn的自留地"
+url = "https://www.heartnn.com/"
+entrySelector = "article.post"
+titleSelector = "h2.post-title > a"
+linkSelector = "h2.post-title > a"
 
 
 [wikivoyage]
