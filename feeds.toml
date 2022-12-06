@@ -1,5 +1,5 @@
 [default]
-timeout = 30
+timeout = 300
 
 [heartnn]
 title = "heartnn的自留地"
@@ -17,3 +17,12 @@ titleSelector = "> span > a"
 linkSelector = "> span > a"
 dateSelector = "time.datePublished"
 dateFormat = "yyyy-MMM-dd"
+
+[securityjourney]
+title = "Security Journey Blog"
+url = "https://www.securityjourney.com/resources/blog"
+entrySelector = ".comp__blog-horizontal-card"
+titleSelector = ".blog-card__title"
+linkSelector = ".card-image-link-wrapper"
+dateSelector = ".blog-card-date"
+dateFormat = "MMMM d, y"
