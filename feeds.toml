@@ -16,7 +16,7 @@ entrySelector = "li.post-item"
 titleSelector = "> span > a"
 linkSelector = "> span > a"
 dateSelector = "time.datePublished"
-dateFormat = "yyyy-MMM-dd"
+dateFormat = "y-M-d"
 
 [securityjourney]
 title = "Security Journey Blog"
