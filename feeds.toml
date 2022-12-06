@@ -31,3 +31,18 @@ url = "https://blog.kisnows.com/"
 entrySelector = "article.post-block"
 titleSelector = "a.post-title-link"
 linkSelector = "a.post-title-link"
+
+[shuxiao]
+title = "流水沉微"
+url = "https://shuxiao.wang/posts/"
+entrySelector = "div.post-item"
+titleSelector = "div"
+linkSelector = "a > div"
+
+
+[yinwang]
+title = "当然我在扯淡"
+url = "https://www.yinwang.org/"
+entrySelector = "li.list-group-item"
+titleSelector = "> a"
+linkSelector = "a"
