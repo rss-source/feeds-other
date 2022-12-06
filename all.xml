@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss-source.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-06T12:21:52.203Z</updated>
+    <updated>2022-12-06T12:22:09.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[OpenWrt中MosDNS配置 (heartnn的自留地)]]></title>
@@ -449,75 +449,5 @@ on
 
 
 </span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mini EV (neugierig)]]></title>
-        <id>http://neugierig.org/software/blog/2022/11/mini.html</id>
-        <link href="http://neugierig.org/software/blog/2022/11/mini.html"/>
-        <updated>2022-11-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[Fun new car.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[retrowin32, a win32 emulator (neugierig)]]></title>
-        <id>http://neugierig.org/software/blog/2022/10/retrowin32.html</id>
-        <link href="http://neugierig.org/software/blog/2022/10/retrowin32.html"/>
-        <updated>2022-10-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[Small steps towards running my favorite demo again.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blog software (neugierig)]]></title>
-        <id>http://neugierig.org/software/blog/2022/10/blog-software.html</id>
-        <link href="http://neugierig.org/software/blog/2022/10/blog-software.html"/>
-        <updated>2022-10-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[The boring software I use to make this site.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taking a break (neugierig)]]></title>
-        <id>http://neugierig.org/software/blog/2022/09/break.html</id>
-        <link href="http://neugierig.org/software/blog/2022/09/break.html"/>
-        <updated>2022-09-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[My year at Figma.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebAssembly and C++ (neugierig)]]></title>
-        <id>http://neugierig.org/software/blog/2022/06/wasm-c++.html</id>
-        <link href="http://neugierig.org/software/blog/2022/06/wasm-c++.html"/>
-        <updated>2022-06-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[C/C++-specific WebAssembly notes.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notes on WebAssembly (neugierig)]]></title>
-        <id>http://neugierig.org/software/blog/2022/06/wasm-notes.html</id>
-        <link href="http://neugierig.org/software/blog/2022/06/wasm-notes.html"/>
-        <updated>2022-06-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[An advanced beginner's take on WebAssembly.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[n2: revisiting Ninja (neugierig)]]></title>
-        <id>http://neugierig.org/software/blog/2022/03/n2.html</id>
-        <link href="http://neugierig.org/software/blog/2022/03/n2.html"/>
-        <updated>2022-03-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[Back into build systems.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking errors, warnings, and lints (neugierig)]]></title>
-        <id>http://neugierig.org/software/blog/2022/01/rethinking-errors.html</id>
-        <link href="http://neugierig.org/software/blog/2022/01/rethinking-errors.html"/>
-        <updated>2022-01-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[Lessons from working on programming language tooling.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leaving Google (neugierig)]]></title>
-        <id>http://neugierig.org/software/blog/2021/07/leaving-google.html</id>
-        <link href="http://neugierig.org/software/blog/2021/07/leaving-google.html"/>
-        <updated>2021-07-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[The end of an era.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scaling TypeScript compilation (neugierig)]]></title>
-        <id>http://neugierig.org/software/blog/2020/10/scaling-typescript.html</id>
-        <link href="http://neugierig.org/software/blog/2020/10/scaling-typescript.html"/>
-        <updated>2020-10-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[Our work on scaling TypeScript to larger projects.]]></content>
     </entry>
 </feed>

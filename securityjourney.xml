@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.securityjourney.com/resources/blog</id>
+    <title>Security Journey Blog</title>
+    <updated>2022-12-06T12:22:09.745Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.securityjourney.com/resources/favicon.ico</icon>
+</feed>
