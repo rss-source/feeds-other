@@ -46,3 +46,4 @@ url = "https://www.yinwang.org/"
 entrySelector = "li.list-group-item"
 titleSelector = "> a"
 linkSelector = "a"
+
