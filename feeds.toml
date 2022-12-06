@@ -16,7 +16,7 @@ entrySelector = "li.post-item"
 titleSelector = "> span > a"
 linkSelector = "> span > a"
 dateSelector = "time.datePublished"
-dateFormat = "y-M-d"
+dateFormat = "YYYY-MM-DDThh:mm:ssZ"
 
 [neugierig]
 title = "neugierig"
