@@ -4,15 +4,14 @@ timeout = 30
 [heartnn]
 title = "heartnn的自留地"
 url = "https://www.heartnn.com/"
-dateSelector = “time.post-date datetime”
 entrySelector = "article.post"
 titleSelector = "h2.post-title > a"
 linkSelector = "h2.post-title > a"
 
 
-[wikivoyage]
-title = "Wikivoyage recommendations"
-url = "https://en.wikivoyage.org/wiki/Main_Page"
-entrySelector = ".jcarousel-wrapper .jcarousel-item"
-titleSelector = "h2"
-linkSelector = "h2 a"
+[akarat]
+title = "Tristram"
+url = "https://akarat.xyz/"
+entrySelector = "li.post-item"
+titleSelector = "> span > a"
+linkSelector = "> span > a"
