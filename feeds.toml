@@ -15,7 +15,7 @@ url = "https://akarat.xyz/"
 entrySelector = "li.post-item"
 titleSelector = "> span > a"
 linkSelector = "> span > a"
-dateSelector = "time"
+dateSelector = "time.datePublished"
 dateFormat = "y-M-d"
 
 [neugierig]
