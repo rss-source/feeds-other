@@ -37,7 +37,7 @@ title = "流水沉微"
 url = "https://shuxiao.wang/posts/"
 entrySelector = "div.post-item"
 titleSelector = "div"
-linkSelector = "a > div"
+linkSelector = "a"
 
 
 [yinwang]
