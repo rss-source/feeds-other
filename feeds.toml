@@ -18,12 +18,9 @@ linkSelector = "> span > a"
 dateSelector = "time.datePublished"
 dateFormat = "yyyy-MM-dd'T'HH:mm:ss.SSSZ"
 
-[neugierig]
-title = "neugierig"
-url = "http://neugierig.org/software/blog/"
-entrySelector = "tr.summary"
-titleSelector = "h2"
-linkSelector = "a.hiddenlink"
-contentSelector = "a.hiddenlink div"
-dateSelector = "td.date"
-dateFormat = "y/M/d"
+[bestcherish]
+title = "灰常记忆"
+url = "https://bestcherish.com/"
+entrySelector = "header.entry-header"
+titleSelector = "h1.entry-title > a"
+linkSelector = "a"
