@@ -24,3 +24,10 @@ url = "https://bestcherish.com/"
 entrySelector = "header.entry-header"
 titleSelector = "h1.entry-title > a"
 linkSelector = "a"
+
+[kisnows]
+title = "抹桥的博客"
+url = "https://blog.kisnows.com/"
+entrySelector = "article.post-block"
+titleSelector = "a.post-title-link"
+linkSelector = "a.post-title-link"
