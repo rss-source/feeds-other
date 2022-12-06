@@ -4,6 +4,7 @@ timeout = 30
 [heartnn]
 title = "heartnn的自留地"
 url = "https://www.heartnn.com/"
+dateSelector = “time.post-date”
 entrySelector = "article.post"
 titleSelector = "h2.post-title > a"
 linkSelector = "h2.post-title > a"
