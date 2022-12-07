@@ -27,10 +27,10 @@ linkSelector = "a.sya_postlink"
 
 [kisnows]
 title = "抹桥的博客"
-url = "https://blog.kisnows.com/"
-entrySelector = "article.post-block"
-titleSelector = "a.post-title-link"
-linkSelector = "a.post-title-link"
+url = "https://blog.kisnows.com/archives/"
+entrySelector = "header.post-header"
+titleSelector = "a.post-title-link > span"
+linkSelector = "a.post-title-link > span"
 
 [shuxiao]
 title = "流水沉微"
