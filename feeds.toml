@@ -20,10 +20,10 @@ dateFormat = "yyyy-MM-dd'T'HH:mm:ss.SSSZ"
 
 [bestcherish]
 title = "灰常记忆"
-url = "https://bestcherish.com/"
-entrySelector = "header.entry-header"
-titleSelector = "h1.entry-title > a"
-linkSelector = "a"
+url = "https://bestcherish.com/archive"
+entrySelector = "div.sya_postcontent"
+titleSelector = "a.sya_postlink"
+linkSelector = "a.sya_postlink"
 
 [kisnows]
 title = "抹桥的博客"
