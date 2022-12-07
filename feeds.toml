@@ -47,3 +47,9 @@ entrySelector = "li.list-group-item"
 titleSelector = "> a"
 linkSelector = "a"
 
+[chinese-future]
+title = "中国:历史与未来"
+url = "https://www.chinese-future.org/"
+entrySelector = "div.summary-item"
+titleSelector = "a.summary-title-link"
+linkSelector = "a.summary-title-link"
