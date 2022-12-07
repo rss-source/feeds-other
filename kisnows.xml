@@ -1,437 +1,328 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://blog.kisnows.com/</id>
+    <id>https://blog.kisnows.com/archives/</id>
     <title>抹桥的博客</title>
-    <updated>2022-12-07T13:47:34.473Z</updated>
+    <updated>2022-12-07T23:11:13.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://blog.kisnows.com/images/favicon-32x32-next.png</icon>
     <entry>
         <title type="html"><![CDATA[2021 年终总结]]></title>
-        <id>https://blog.kisnows.com/2021/12/31/2021-year-end-summary/</id>
-        <link href="https://blog.kisnows.com/2021/12/31/2021-year-end-summary/"/>
-        <updated>2022-12-06T13:28:49.703Z</updated>
-        <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="https://blog.kisnows.com/2021/12/31/2021-year-end-summary/">
-<span itemprop="author" itemscope="" itemtype="http://schema.org/Person" hidden="">
-<meta itemprop="image" content="/imgs/avatar.jpg">
-<meta itemprop="name" content="抹桥">
-<meta itemprop="description" content="怕什么真理无穷">
-</span>
-<span itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization" hidden="">
-<meta itemprop="name" content="抹桥的博客">
-</span>
-<header class="post-header">
-<h2 class="post-title" itemprop="name headline">
-<a href="/2021/12/31/2021-year-end-summary/" class="post-title-link" itemprop="url">2021 年终总结</a>
-</h2>
-<div class="post-meta">
-<span class="post-meta-item">
-<span class="post-meta-item-icon">
-<i class="far fa-calendar"></i>
-</span>
-<span class="post-meta-item-text">发表于</span>
-<time title="创建时间：2021-12-31 14:01:21" itemprop="dateCreated datePublished" datetime="2021-12-31T14:01:21+08:00"> 2021-12-31</time>
-</span>
-<span class="post-meta-item">
-<span class="post-meta-item-icon">
-<i class="far fa-calendar-check"></i>
-</span>
-<span class="post-meta-item-text"> 更新于</span>
-<time title="修改时间：2022-02-23 15:31:16" itemprop="dateModified" datetime="2022-02-23T15:31:16+08:00"> 2022-02-23</time>
-</span>
-<span class="post-meta-item">
-<span class="post-meta-item-icon">
-<i class="far fa-folder"></i>
-</span>
-<span class="post-meta-item-text"> 分类于</span>
-<span itemprop="about" itemscope="" itemtype="http://schema.org/Thing">
-<a href="/categories/%E9%9A%8F%E7%AC%94/" itemprop="url" rel="index"><span itemprop="name">随笔</span></a>
-</span>
-</span>
-<span id="/2021/12/31/2021-year-end-summary/" class="post-meta-item leancloud_visitors" data-flag-title="2021 年终总结" title="阅读次数">
-<span class="post-meta-item-icon">
-<i class="fa fa-eye"></i>
-</span>
-<span class="post-meta-item-text">阅读次数：</span>
-<span class="leancloud-visitors-count"></span>
-</span>
-<span class="post-meta-item" title="本文字数">
-<span class="post-meta-item-icon">
-<i class="far fa-file-word"></i>
-</span>
-<span class="post-meta-item-text">本文字数：</span>
-<span>3k</span>
-</span>
-<span class="post-meta-item" title="阅读时长">
-<span class="post-meta-item-icon">
-<i class="far fa-clock"></i>
-</span>
-<span class="post-meta-item-text"> 阅读时长 ≈</span>
-<span>5 分钟</span>
-</span>
+        <id>https://blog.kisnows.com/archives/</id>
+        <link href="https://blog.kisnows.com/archives/"/>
+        <updated>2022-12-07T23:10:59.402Z</updated>
+        <content type="html"><![CDATA[<div class="post-meta">
+<time itemprop="dateCreated" datetime="2021-12-31T14:01:21+08:00" content="2021-12-31">
+12-31
+</time>
 </div>
-</header>
-<div class="post-body" itemprop="articleBody">
-<p>疫情后的第二次春节，我和女友本打算各回各家（省略各种对于回谁家的争执），各找各妈。我票都订好了，为了自己的老腰还订了一等座，女友也约了当天的顺风车，就等 1.27 出发了。结果出发前一天杭州突然又出现新的病例，这突如其来的变化打破了我们的计划。回家的旅程充满了不确定性，毕竟如果路上或者到了目的地被劝返或者被要求更可怕的强制隔离，那就很吃不消了。</p>
-<p>于是我问了老爸家里的政策，听起来问题不大，应该是可以回家的。只是女朋友很担心，她听到的消息不够确定，怕回家被隔离，想等形式明朗，政策清晰后再决定还要不要回家。那我想就等你一两天再杭州陪你吧，不行的话年 30 再回家也行。还考虑到如果她家回不去，那就跟我一起回家，为此我花大价钱订了一张特等座（没有票了，只候补到这个席位）。</p>
-<p>第二天一早，女友起床一看直接黄码了，她哪也去不了了，我也只能留在杭州陪她了。于是就这样稀里糊涂的要渡过在杭州的第一个春节了，也好，哪也不跑风险小。</p>
-<p>刚好趁着这个时间，对去年做个总结。</p>
-<h2 id="工作"><a href="#工作" class="headerlink" title="工作"></a>工作</h2><p>年初由于组织架构调整，大前端团队拆掉了都划分到各个业务小组里去，变化非常大，同时夹杂着一些其他原因，整个大组里面资深的人走了一大半。我入职虽不久，但三年来还没有这么大的动荡。老板也对我的想法比较关注，我都是直说一直以来都有看机会，当然这个不针对最近发生的事情，只是作为一个职业的职场人士，这是应该的，需要一直关心市场的行情。</p>
-<p>当然最后我还是选择继续留了下来，原因也很多，简单说就只能是懒了，加上外面也没有非常合适的机会。留下来也不是一个非常错误的决定，一来因为组织架构调整对我们小组影响不是很大，二来优秀的人变少了不能说完全是一件坏事，毕竟作为留下来的优秀人士，我的发展机会变大了那么一点点，只是我比较佛，倒不是很在意这个，所以整体上在团队的职责和定位没有发生太大的变化。甚至由于前后端团队的合并，在我们店铺小组来说合作更加方便了。提了三年的智能店铺也最终一起达成了方向上的一致，打算今年进行落地。</p>
-<p>整个项目的推进还是很顺利的，到了年中一切都按照计划进行。老板中期谈话，跟我说你这个级别只搞智能店铺是不行的，要搞一点更有挑战性、前瞻性的东西，并给我指了个方向说搞<strong>端智能</strong>。</p>
-
-<div class="post-button">
-<a class="btn" href="/2021/12/31/2021-year-end-summary/#more" rel="contents">
-阅读全文 »
+<div class="post-title">
+<a class="post-title-link" href="/2021/12/31/2021-year-end-summary/" itemprop="url">
+<span itemprop="name">2021 年终总结</span>
 </a>
-</div>
-
-</div>
-<footer class="post-footer">
-<div class="post-eof"></div>
-</footer>]]></content>
+</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[阿里工作三年总结]]></title>
-        <id>https://blog.kisnows.com/2021/06/04/three-years-summary-for-alibaba-work-experience/</id>
-        <link href="https://blog.kisnows.com/2021/06/04/three-years-summary-for-alibaba-work-experience/"/>
-        <updated>2022-12-06T13:28:49.704Z</updated>
-        <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="https://blog.kisnows.com/2021/06/04/three-years-summary-for-alibaba-work-experience/">
-<span itemprop="author" itemscope="" itemtype="http://schema.org/Person" hidden="">
-<meta itemprop="image" content="/imgs/avatar.jpg">
-<meta itemprop="name" content="抹桥">
-<meta itemprop="description" content="怕什么真理无穷">
-</span>
-<span itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization" hidden="">
-<meta itemprop="name" content="抹桥的博客">
-</span>
-<header class="post-header">
-<h2 class="post-title" itemprop="name headline">
-
-<a href="/2021/06/04/three-years-summary-for-alibaba-work-experience/" class="post-title-link" itemprop="url">阿里工作三年总结</a>
-</h2>
-<div class="post-meta">
-<span class="post-meta-item">
-<span class="post-meta-item-icon">
-<i class="far fa-calendar"></i>
-</span>
-<span class="post-meta-item-text">发表于</span>
-<time title="创建时间：2021-06-04 08:55:54" itemprop="dateCreated datePublished" datetime="2021-06-04T08:55:54+08:00"> 2021-06-04</time>
-</span>
-<span class="post-meta-item">
-<span class="post-meta-item-icon">
-<i class="far fa-calendar-check"></i>
-</span>
-<span class="post-meta-item-text"> 更新于</span>
-<time title="修改时间：2021-10-23 23:42:25" itemprop="dateModified" datetime="2021-10-23T23:42:25+08:00"> 2021-10-23</time>
-</span>
-<span class="post-meta-item">
-<span class="post-meta-item-icon">
-<i class="far fa-folder"></i>
-</span>
-<span class="post-meta-item-text"> 分类于</span>
-<span itemprop="about" itemscope="" itemtype="http://schema.org/Thing">
-<a href="/categories/%E6%8A%80%E6%9C%AF/" itemprop="url" rel="index"><span itemprop="name">技术</span></a>
-</span>
-</span>
-<span id="/2021/06/04/three-years-summary-for-alibaba-work-experience/" class="post-meta-item leancloud_visitors" data-flag-title="阿里工作三年总结" title="阅读次数">
-<span class="post-meta-item-icon">
-<i class="fa fa-eye"></i>
-</span>
-<span class="post-meta-item-text">阅读次数：</span>
-<span class="leancloud-visitors-count"></span>
-</span>
-<span class="post-meta-item" title="本文字数">
-<span class="post-meta-item-icon">
-<i class="far fa-file-word"></i>
-</span>
-<span class="post-meta-item-text">本文字数：</span>
-<span>2.7k</span>
-</span>
-<span class="post-meta-item" title="阅读时长">
-<span class="post-meta-item-icon">
-<i class="far fa-clock"></i>
-</span>
-<span class="post-meta-item-text"> 阅读时长 ≈</span>
-<span>5 分钟</span>
-</span>
+        <id>https://blog.kisnows.com/archives/</id>
+        <link href="https://blog.kisnows.com/archives/"/>
+        <updated>2022-12-07T23:10:59.403Z</updated>
+        <content type="html"><![CDATA[<div class="post-meta">
+<time itemprop="dateCreated" datetime="2021-06-04T08:55:54+08:00" content="2021-06-04">
+06-04
+</time>
 </div>
-</header>
-<div class="post-body" itemprop="articleBody">
-<p>今天是阿里入职三周年，借机回顾一下这三年的工作。<br>回想入职之前，内推的朋友跟说我过来可能负责日本站的开发，当时还挺激动的，国际化业务啊， international 。<br>结果我入职的前几天组织架构发生了巨大的变化，带我的师兄也换了，负责的业务域也换了。除了刚入职做了一段时间 detail ，后面主要就是做国际站店铺了。</p>
-<h2 id="业务开发"><a href="#业务开发" class="headerlink" title="业务开发"></a>业务开发</h2><p>国际店铺这个业务虽然已经很稳定了，但还是有很多可以改进和优化的地方。三年来大的项目主要就是：</p>
-<ul>
-<li>千人千面</li>
-<li> CP 结构化展示</li>
-<li>双赛道</li>
-<li>管理后台升级</li>
-<li>无线店铺 2.0</li>
-<li> 内容化店铺</li>
-</ul>
-<p>也算是为跨境国际贸易做出了自己的贡献。</p>
-<h2 id="效率-amp-架构升级"><a href="#效率-amp-架构升级" class="headerlink" title="效率&amp;架构升级"></a>效率 &amp; 架构升级</h2><h3 id="开发提效"><a href="#开发提效" class="headerlink" title="开发提效"></a>开发提效</h3><p>一开始负责 detail 的开发，接到的第一个需求是做一个什么物流相关的。我一看很简单自评了 2 天，师兄跟我说评少了，一个星期吧。我当时内心 OS：这么简单的功能需要一周？</p>
-<p>结果真正着手做的时候发现，我靠一周都悬。当时的 detail 还是一个完全依赖后端 vm 渲染的古典 web 业务，前后端完全不分离。几乎任何功能都需要前后端一起改，并且改完部署到预发才能调试，而一次部署需要将近 20 分钟到半个小时。可以想想这样的开发效率，那是相当的低下，最终导致我入职第一周就体验了通宵工作，干的我差点想当场离职。都 2018 年，还是这么落后的技术，难以想象。</p>
-
-<div class="post-button">
-<a class="btn" href="/2021/06/04/three-years-summary-for-alibaba-work-experience/#more" rel="contents">
-阅读全文 »
+<div class="post-title">
+<a class="post-title-link" href="/2021/06/04/three-years-summary-for-alibaba-work-experience/" itemprop="url">
+<span itemprop="name">阿里工作三年总结</span>
 </a>
-</div>
-
-</div>
-<footer class="post-footer">
-<div class="post-eof"></div>
-</footer>]]></content>
+</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[店铺体验优化总结]]></title>
-        <id>https://blog.kisnows.com/2021/04/28/shop-performance-improve/</id>
-        <link href="https://blog.kisnows.com/2021/04/28/shop-performance-improve/"/>
-        <updated>2022-12-06T13:28:49.712Z</updated>
-        <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="https://blog.kisnows.com/2021/04/28/shop-performance-improve/">
-<span itemprop="author" itemscope="" itemtype="http://schema.org/Person" hidden="">
-<meta itemprop="image" content="/imgs/avatar.jpg">
-<meta itemprop="name" content="抹桥">
-<meta itemprop="description" content="怕什么真理无穷">
-</span>
-<span itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization" hidden="">
-<meta itemprop="name" content="抹桥的博客">
-</span>
-<header class="post-header">
-<h2 class="post-title" itemprop="name headline">
-<a href="/2021/04/28/shop-performance-improve/" class="post-title-link" itemprop="url">店铺体验优化总结</a>
-</h2>
-<div class="post-meta">
-<span class="post-meta-item">
-<span class="post-meta-item-icon">
-<i class="far fa-calendar"></i>
-</span>
-<span class="post-meta-item-text">发表于</span>
-<time title="创建时间：2021-04-28 16:41:08" itemprop="dateCreated datePublished" datetime="2021-04-28T16:41:08+08:00"> 2021-04-28</time>
-</span>
-<span class="post-meta-item">
-<span class="post-meta-item-icon">
-<i class="far fa-calendar-check"></i>
-</span>
-<span class="post-meta-item-text"> 更新于</span>
-<time title="修改时间：2021-10-23 23:42:52" itemprop="dateModified" datetime="2021-10-23T23:42:52+08:00"> 2021-10-23</time>
-</span>
-<span class="post-meta-item">
-<span class="post-meta-item-icon">
-<i class="far fa-folder"></i>
-</span>
-<span class="post-meta-item-text"> 分类于</span>
-<span itemprop="about" itemscope="" itemtype="http://schema.org/Thing">
-<a href="/categories/%E6%8A%80%E6%9C%AF/" itemprop="url" rel="index"><span itemprop="name">技术</span></a>
-</span>
-</span>
-<span id="/2021/04/28/shop-performance-improve/" class="post-meta-item leancloud_visitors" data-flag-title="店铺体验优化总结" title="阅读次数">
-<span class="post-meta-item-icon">
-<i class="fa fa-eye"></i>
-</span>
-<span class="post-meta-item-text">阅读次数：</span>
-<span class="leancloud-visitors-count"></span>
-</span>
-<span class="post-meta-item" title="本文字数">
-<span class="post-meta-item-icon">
-<i class="far fa-file-word"></i>
-</span>
-<span class="post-meta-item-text">本文字数：</span>
-<span>5.2k</span>
-</span>
-<span class="post-meta-item" title="阅读时长">
-<span class="post-meta-item-icon">
-<i class="far fa-clock"></i>
-</span>
-<span class="post-meta-item-text"> 阅读时长 ≈</span>
-<span>9 分钟</span>
-</span>
+        <id>https://blog.kisnows.com/archives/</id>
+        <link href="https://blog.kisnows.com/archives/"/>
+        <updated>2022-12-07T23:10:59.404Z</updated>
+        <content type="html"><![CDATA[<div class="post-meta">
+<time itemprop="dateCreated" datetime="2021-04-28T16:41:08+08:00" content="2021-04-28">
+04-28
+</time>
 </div>
-</header>
-<div class="post-body" itemprop="articleBody">
-<p>本文整理了近两年来国际站店铺在体验优化上做的努力和探索，也取得了不错的成果，分享出来希望对其他类似场景能有帮助。</p>
-<p>性能优化大体上可以分为网络性能优化和交互体验优化：</p>
-
-<div class="post-button">
-<a class="btn" href="/2021/04/28/shop-performance-improve/#more" rel="contents">
-阅读全文 »
+<div class="post-title">
+<a class="post-title-link" href="/2021/04/28/shop-performance-improve/" itemprop="url">
+<span itemprop="name">店铺体验优化总结</span>
 </a>
-</div>
-
-</div>
-<footer class="post-footer">
-<div class="post-eof"></div>
-</footer>]]></content>
+</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[五分钟接入流式渲染]]></title>
-        <id>https://blog.kisnows.com/2021/03/23/egg-spart-a-way-to-stream-render-you-page/</id>
-        <link href="https://blog.kisnows.com/2021/03/23/egg-spart-a-way-to-stream-render-you-page/"/>
-        <updated>2022-12-06T13:28:49.713Z</updated>
-        <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="https://blog.kisnows.com/2021/03/23/egg-spart-a-way-to-stream-render-you-page/">
-<span itemprop="author" itemscope="" itemtype="http://schema.org/Person" hidden="">
-<meta itemprop="image" content="/imgs/avatar.jpg">
-<meta itemprop="name" content="抹桥">
-<meta itemprop="description" content="怕什么真理无穷">
-</span>
-<span itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization" hidden="">
-<meta itemprop="name" content="抹桥的博客">
-</span>
-<header class="post-header">
-<h2 class="post-title" itemprop="name headline">
-<a href="/2021/03/23/egg-spart-a-way-to-stream-render-you-page/" class="post-title-link" itemprop="url">五分钟接入流式渲染</a>
-</h2>
-<div class="post-meta">
-<span class="post-meta-item">
-<span class="post-meta-item-icon">
-<i class="far fa-calendar"></i>
-</span>
-<span class="post-meta-item-text">发表于</span>
-<time title="创建时间：2021-03-23 09:27:36" itemprop="dateCreated datePublished" datetime="2021-03-23T09:27:36+08:00"> 2021-03-23</time>
-</span>
-<span class="post-meta-item">
-<span class="post-meta-item-icon">
-<i class="far fa-calendar-check"></i>
-</span>
-<span class="post-meta-item-text"> 更新于</span>
-<time title="修改时间：2021-04-12 23:16:17" itemprop="dateModified" datetime="2021-04-12T23:16:17+08:00"> 2021-04-12</time>
-</span>
-<span class="post-meta-item">
-<span class="post-meta-item-icon">
-<i class="far fa-folder"></i>
-</span>
-<span class="post-meta-item-text"> 分类于</span>
-<span itemprop="about" itemscope="" itemtype="http://schema.org/Thing">
-<a href="/categories/%E6%8A%80%E6%9C%AF/" itemprop="url" rel="index"><span itemprop="name">技术</span></a>
-</span>
-</span>
-<span id="/2021/03/23/egg-spart-a-way-to-stream-render-you-page/" class="post-meta-item leancloud_visitors" data-flag-title="五分钟接入流式渲染" title="阅读次数">
-<span class="post-meta-item-icon">
-<i class="fa fa-eye"></i>
-</span>
-<span class="post-meta-item-text">阅读次数：</span>
-<span class="leancloud-visitors-count"></span>
-</span>
-<span class="post-meta-item" title="本文字数">
-<span class="post-meta-item-icon">
-<i class="far fa-file-word"></i>
-</span>
-<span class="post-meta-item-text">本文字数：</span>
-<span>8.8k</span>
-</span>
-<span class="post-meta-item" title="阅读时长">
-<span class="post-meta-item-icon">
-<i class="far fa-clock"></i>
-</span>
-<span class="post-meta-item-text"> 阅读时长 ≈</span>
-<span>15 分钟</span>
-</span>
+        <id>https://blog.kisnows.com/archives/</id>
+        <link href="https://blog.kisnows.com/archives/"/>
+        <updated>2022-12-07T23:10:59.404Z</updated>
+        <content type="html"><![CDATA[<div class="post-meta">
+<time itemprop="dateCreated" datetime="2021-03-23T09:27:36+08:00" content="2021-03-23">
+03-23
+</time>
 </div>
-</header>
-<div class="post-body" itemprop="articleBody">
-<h2 id="流式渲染"><a href="#流式渲染" class="headerlink" title="流式渲染"></a>流式渲染</h2><p>首先，简单介绍一下什么是流式渲染.<br>流式渲染是利用 <code>http1.1</code> 的<strong>分块传输编码</strong>的特性，让服务端分块返回 <code>html</code> , 浏览器可以在接收时逐步渲染页面，这样有助于页面的首屏展现，提升用户体验.</p>
-<h3 id="分块传输编码"><a href="#分块传输编码" class="headerlink" title="分块传输编码"></a>分块传输编码</h3><blockquote>
-<p>分块传输编码（Chunked transfer encoding）是超文本传输协议（HTTP）中的一种数据传输机制，允许 HTTP 由网页服务器发送给客户端应用（ 通常是网页浏览器）的数据可以分成多个部分。分块传输编码只在 HTTP 协议 1.1 版本（HTTP/1.1）中提供。</p>
-</blockquote>
-<h3 id="分块传输格式"><a href="#分块传输格式" class="headerlink" title="分块传输格式"></a>分块传输格式</h3><blockquote>
-<p>如果一个 HTTP 消息（包括客户端发送的请求消息或服务器返回的应答消息）的 Transfer-Encoding 消息头的值为 chunked，那么，消息体由数量未定的块组成，并以最后一个大小为 0 的块为结束。<br>每一个非空的块都以该块包含数据的字节数（字节数以十六进制表示）开始，跟随一个 CRLF （回车及换行），然后是数据本身，最后块 CRLF 结束。在一些实现中，块大小和 CRLF 之间填充有白空格（0x20）。<br>最后一块是单行，由块大小（0），一些可选的填充白空格，以及 CRLF。最后一块不再包含任何数据，但是可以发送可选的尾部，包括消息头字段。<br>消息最后以 CRLF 结尾。</p>
-</blockquote>
-<h3 id="一个栗子"><a href="#一个栗子" class="headerlink" title="一个栗子"></a>一个栗子</h3><p>店铺无线和 PC 端都做了流式渲染的改造，首屏提升都在 200ms 左右，而且业务数据也都有相应的提升 。</p>
-<p>店铺普通渲染和流式渲染对比时序图:</p>
-<img data-src="/2021/03/23/egg-spart-a-way-to-stream-render-you-page/2021-03-30-14-38-17.png" class="">
-<h2 id="工程化解决方法-Spark"><a href="#工程化解决方法-Spark" class="headerlink" title="工程化解决方法 Spark"></a>工程化解决方法 Spark</h2><p>流式渲染的好处很明显，但每个应用接起来还是有一定的成本，我就打算从店铺的改造思路中抽离一个可以快速接入流式渲染的方案。</p>
-<h3 id="方案预研"><a href="#方案预研" class="headerlink" title="方案预研"></a>方案预研</h3>
-
-<div class="post-button">
-<a class="btn" href="/2021/03/23/egg-spart-a-way-to-stream-render-you-page/#more" rel="contents">
-阅读全文 »
+<div class="post-title">
+<a class="post-title-link" href="/2021/03/23/egg-spart-a-way-to-stream-render-you-page/" itemprop="url">
+<span itemprop="name">五分钟接入流式渲染</span>
 </a>
-</div>
-
-</div>
-<footer class="post-footer">
-<div class="post-eof"></div>
-</footer>]]></content>
+</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Windows10 中 thunderbolt3 接口的故障排查经历]]></title>
-        <id>https://blog.kisnows.com/2021/03/04/a-thunderbolt3-question-on-windows/</id>
-        <link href="https://blog.kisnows.com/2021/03/04/a-thunderbolt3-question-on-windows/"/>
-        <updated>2022-12-06T13:28:49.713Z</updated>
-        <content type="html"><![CDATA[<link itemprop="mainEntityOfPage" href="https://blog.kisnows.com/2021/03/04/a-thunderbolt3-question-on-windows/">
-<span itemprop="author" itemscope="" itemtype="http://schema.org/Person" hidden="">
-<meta itemprop="image" content="/imgs/avatar.jpg">
-<meta itemprop="name" content="抹桥">
-<meta itemprop="description" content="怕什么真理无穷">
-</span>
-<span itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization" hidden="">
-<meta itemprop="name" content="抹桥的博客">
-</span>
-<header class="post-header">
-<h2 class="post-title" itemprop="name headline">
-<a href="/2021/03/04/a-thunderbolt3-question-on-windows/" class="post-title-link" itemprop="url">Windows10 中 thunderbolt3 接口的故障排查经历</a>
-</h2>
-<div class="post-meta">
-<span class="post-meta-item">
-<span class="post-meta-item-icon">
-<i class="far fa-calendar"></i>
-</span>
-<span class="post-meta-item-text">发表于</span>
-<time title="创建时间：2021-03-04 14:22:37 / 修改时间：23:06:12" itemprop="dateCreated datePublished" datetime="2021-03-04T14:22:37+08:00"> 2021-03-04</time>
-</span>
-<span class="post-meta-item">
-<span class="post-meta-item-icon">
-<i class="far fa-folder"></i>
-</span>
-<span class="post-meta-item-text"> 分类于</span>
-<span itemprop="about" itemscope="" itemtype="http://schema.org/Thing">
-<a href="/categories/%E9%9A%8F%E7%AC%94/" itemprop="url" rel="index"><span itemprop="name">随笔</span></a>
-</span>
-</span>
-<span id="/2021/03/04/a-thunderbolt3-question-on-windows/" class="post-meta-item leancloud_visitors" data-flag-title="Windows10 中 thunderbolt3 接口的故障排查经历" title="阅读次数">
-<span class="post-meta-item-icon">
-<i class="fa fa-eye"></i>
-</span>
-<span class="post-meta-item-text">阅读次数：</span>
-<span class="leancloud-visitors-count"></span>
-</span>
-<span class="post-meta-item" title="本文字数">
-<span class="post-meta-item-icon">
-<i class="far fa-file-word"></i>
-</span>
-<span class="post-meta-item-text">本文字数：</span>
-<span>2.3k</span>
-</span>
-<span class="post-meta-item" title="阅读时长">
-<span class="post-meta-item-icon">
-<i class="far fa-clock"></i>
-</span>
-<span class="post-meta-item-text"> 阅读时长 ≈</span>
-<span>4 分钟</span>
-</span>
+        <id>https://blog.kisnows.com/archives/</id>
+        <link href="https://blog.kisnows.com/archives/"/>
+        <updated>2022-12-07T23:10:59.405Z</updated>
+        <content type="html"><![CDATA[<div class="post-meta">
+<time itemprop="dateCreated" datetime="2021-03-04T14:22:37+08:00" content="2021-03-04">
+03-04
+</time>
 </div>
-</header>
-<div class="post-body" itemprop="articleBody">
-<p>主板型号是 <code>z490 GodLike</code>, 微星旗下 <code>Z490</code> 系列最高端的品牌，拓展坞是贝尔金的 Intel 认证的 13 合一的那一款。<br>拓展坞插到电脑上的时候毫无反应，想了一下可能是缺少驱动。于是就上微星官网找了一下，果然有一个 thunderbolt 的驱动，下载下来却发现根本不知道如何安装：</p>
-<img data-src="/2021/03/04/a-thunderbolt3-question-on-windows/thunderbolt-1.png" class="">
-<p>看起来执行 setup 这个批处理文件就好了，但是每次执行都是失败，毫无进展。</p>
-<p>于是直接上网搜 thunderbolt 的驱动，看到 intel 官方有给自己 NCU 产品提供的<a target="_blank" rel="noopener" href="https://www.intel.cn/content/www/cn/zh/search.html?ws=text#q=thunderbolt&amp;t=Downloads&amp;layout=**table**">驱动</a>，于是下载下来直接安装。安装好后会有一个 Thunderbolt 控制中心的应用，同时在设备管理器里面也能看到名为 <code>Thunderbolt(TM) Controller - xxxx</code> 的设备：</p>
-<img data-src="/2021/03/04/a-thunderbolt3-question-on-windows/thunderbolt-device.png" class="">
-<p>同时打开前面提到安装好的 Thunderbolt 控制中心，能看到如下展示就说明驱动都没有问题了：</p>
-<img data-src="/2021/03/04/a-thunderbolt3-question-on-windows/thunderbolt-details.png" class="">
-<p>重新插拔拓展坞，会看到控制中心有提示新的设备接入，需要授权（如果 Bios 中设置的不需要授权就不会有这个提示）：</p>
-<img data-src="/2021/03/04/a-thunderbolt3-question-on-windows/thunderbolt-app.png" class="">
-<p>点击授权就好了。<br>至此，第一次 ThunderBolt3 拓展坞的连接就成功了，安装在上面的 U 盘之类的扩展设备也都能正常的识别和读取。</p>
-<h2 id="奇怪的事情"><a href="#奇怪的事情" class="headerlink" title="奇怪的事情"></a>奇怪的事情</h2><p>按理说我的拓展坞已经正常运行了，不应该再有其他的事情了。上面的操作也都是常规操作不值得专门写一篇文章记录，然而奇怪的事情就在几天后发生了。</p>
-
-<div class="post-button">
-<a class="btn" href="/2021/03/04/a-thunderbolt3-question-on-windows/#more" rel="contents">
-阅读全文 »
+<div class="post-title">
+<a class="post-title-link" href="/2021/03/04/a-thunderbolt3-question-on-windows/" itemprop="url">
+<span itemprop="name">Windows10 中 thunderbolt3 接口的故障排查经历</span>
 </a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020 年终总结]]></title>
+        <id>https://blog.kisnows.com/archives/</id>
+        <link href="https://blog.kisnows.com/archives/"/>
+        <updated>2022-12-07T23:10:59.408Z</updated>
+        <content type="html"><![CDATA[<div class="post-meta">
+<time itemprop="dateCreated" datetime="2020-12-31T16:03:20+08:00" content="2020-12-31">
+12-31
+</time>
 </div>
-
+<div class="post-title">
+<a class="post-title-link" href="/2020/12/31/2020-year-end-summary/" itemprop="url">
+<span itemprop="name">2020 年终总结</span>
+</a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[财务不自由之路 ———— 美股期权简介（一）]]></title>
+        <id>https://blog.kisnows.com/archives/</id>
+        <link href="https://blog.kisnows.com/archives/"/>
+        <updated>2022-12-07T23:10:59.408Z</updated>
+        <content type="html"><![CDATA[<div class="post-meta">
+<time itemprop="dateCreated" datetime="2020-11-10T20:16:00+08:00" content="2020-11-10">
+11-10
+</time>
 </div>
-<footer class="post-footer">
-<div class="post-eof"></div>
-</footer>]]></content>
+<div class="post-title">
+<a class="post-title-link" href="/2020/11/10/stock-options/" itemprop="url">
+<span itemprop="name">财务不自由之路 ———— 美股期权简介（一）</span>
+</a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为自己配置的第二台 PC]]></title>
+        <id>https://blog.kisnows.com/archives/</id>
+        <link href="https://blog.kisnows.com/archives/"/>
+        <updated>2022-12-07T23:10:59.410Z</updated>
+        <content type="html"><![CDATA[<div class="post-meta">
+<time itemprop="dateCreated" datetime="2020-10-12T14:08:47+08:00" content="2020-10-12">
+10-12
+</time>
+</div>
+<div class="post-title">
+<a class="post-title-link" href="/2020/10/12/a-new-pc-on-2020/" itemprop="url">
+<span itemprop="name">为自己配置的第二台 PC</span>
+</a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2019 年终总结]]></title>
+        <id>https://blog.kisnows.com/archives/</id>
+        <link href="https://blog.kisnows.com/archives/"/>
+        <updated>2022-12-07T23:10:59.412Z</updated>
+        <content type="html"><![CDATA[<div class="post-meta">
+<time itemprop="dateCreated" datetime="2020-03-08T16:03:20+08:00" content="2020-03-08">
+03-08
+</time>
+</div>
+<div class="post-title">
+<a class="post-title-link" href="/2020/03/08/2019-year-end-summary/" itemprop="url">
+<span itemprop="name">2019 年终总结</span>
+</a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rax 代码转换到 React]]></title>
+        <id>https://blog.kisnows.com/archives/</id>
+        <link href="https://blog.kisnows.com/archives/"/>
+        <updated>2022-12-07T23:10:59.413Z</updated>
+        <content type="html"><![CDATA[<div class="post-meta">
+<time itemprop="dateCreated" datetime="2019-08-01T20:15:38+08:00" content="2019-08-01">
+08-01
+</time>
+</div>
+<div class="post-title">
+<a class="post-title-link" href="/2019/08/01/transform-rax-to-react/" itemprop="url">
+<span itemprop="name">Rax 代码转换到 React</span>
+</a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里一年工作总结]]></title>
+        <id>https://blog.kisnows.com/archives/</id>
+        <link href="https://blog.kisnows.com/archives/"/>
+        <updated>2022-12-07T23:10:59.414Z</updated>
+        <content type="html"><![CDATA[<div class="post-meta">
+<time itemprop="dateCreated" datetime="2019-06-04T22:25:49+08:00" content="2019-06-04">
+06-04
+</time>
+</div>
+<div class="post-title">
+<a class="post-title-link" href="/2019/06/04/first-year-summary-for-alibaba-work-experience/" itemprop="url">
+<span itemprop="name">阿里一年工作总结</span>
+</a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[过去 25 年]]></title>
+        <id>https://blog.kisnows.com/archives/</id>
+        <link href="https://blog.kisnows.com/archives/"/>
+        <updated>2022-12-07T23:10:59.415Z</updated>
+        <content type="html"><![CDATA[<div class="post-meta">
+<time itemprop="dateCreated" datetime="2018-12-06T22:08:24+08:00" content="2018-12-06">
+12-06
+</time>
+</div>
+<div class="post-title">
+<a class="post-title-link" href="/2018/12/06/2018-year-end-summary-the-past-25-years/" itemprop="url">
+<span itemprop="name">过去 25 年</span>
+</a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何高效的调试 vm 模版]]></title>
+        <id>https://blog.kisnows.com/archives/</id>
+        <link href="https://blog.kisnows.com/archives/"/>
+        <updated>2022-12-07T23:10:59.416Z</updated>
+        <content type="html"><![CDATA[<div class="post-meta">
+<time itemprop="dateCreated" datetime="2018-11-08T18:00:03+08:00" content="2018-11-08">
+11-08
+</time>
+</div>
+<div class="post-title">
+<a class="post-title-link" href="/2018/11/08/efficient-debug-the-vm-template/" itemprop="url">
+<span itemprop="name">如何高效的调试 vm 模版</span>
+</a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[泰国懒人游]]></title>
+        <id>https://blog.kisnows.com/archives/</id>
+        <link href="https://blog.kisnows.com/archives/"/>
+        <updated>2022-12-07T23:10:59.417Z</updated>
+        <content type="html"><![CDATA[<div class="post-meta">
+<time itemprop="dateCreated" datetime="2018-06-09T15:57:12+08:00" content="2018-06-09">
+06-09
+</time>
+</div>
+<div class="post-title">
+<a class="post-title-link" href="/2018/06/09/thailand-travel-notes/" itemprop="url">
+<span itemprop="name">泰国懒人游</span>
+</a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2017 年终总结]]></title>
+        <id>https://blog.kisnows.com/archives/</id>
+        <link href="https://blog.kisnows.com/archives/"/>
+        <updated>2022-12-07T23:10:59.418Z</updated>
+        <content type="html"><![CDATA[<div class="post-meta">
+<time itemprop="dateCreated" datetime="2018-03-28T14:03:41+08:00" content="2018-03-28">
+03-28
+</time>
+</div>
+<div class="post-title">
+<a class="post-title-link" href="/2018/03/28/2017-year-end-summary/" itemprop="url">
+<span itemprop="name">2017 年终总结</span>
+</a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[indexedDB 不完全指南]]></title>
+        <id>https://blog.kisnows.com/archives/</id>
+        <link href="https://blog.kisnows.com/archives/"/>
+        <updated>2022-12-07T23:10:59.420Z</updated>
+        <content type="html"><![CDATA[<div class="post-meta">
+<time itemprop="dateCreated" datetime="2017-12-06T14:49:52+08:00" content="2017-12-06">
+12-06
+</time>
+</div>
+<div class="post-title">
+<a class="post-title-link" href="/2017/12/06/step-into-indexdb/" itemprop="url">
+<span itemprop="name">indexedDB 不完全指南</span>
+</a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ReactDOM 是如何把组件渲染到 DOM 中的？]]></title>
+        <id>https://blog.kisnows.com/archives/</id>
+        <link href="https://blog.kisnows.com/archives/"/>
+        <updated>2022-12-07T23:10:59.421Z</updated>
+        <content type="html"><![CDATA[<div class="post-meta">
+<time itemprop="dateCreated" datetime="2017-09-20T19:28:39+08:00" content="2017-09-20">
+09-20
+</time>
+</div>
+<div class="post-title">
+<a class="post-title-link" href="/2017/09/20/how-react-render-component-to-dom/" itemprop="url">
+<span itemprop="name">ReactDOM 是如何把组件渲染到 DOM 中的？</span>
+</a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React 源码浅析之 - onlyChildren]]></title>
+        <id>https://blog.kisnows.com/archives/</id>
+        <link href="https://blog.kisnows.com/archives/"/>
+        <updated>2022-12-07T23:10:59.422Z</updated>
+        <content type="html"><![CDATA[<div class="post-meta">
+<time itemprop="dateCreated" datetime="2017-09-20T16:27:39+08:00" content="2017-09-20">
+09-20
+</time>
+</div>
+<div class="post-title">
+<a class="post-title-link" href="/2017/09/20/react-source-code-analyze-5/" itemprop="url">
+<span itemprop="name">React 源码浅析之 - onlyChildren</span>
+</a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React 源码浅析之 - ReactElement]]></title>
+        <id>https://blog.kisnows.com/archives/</id>
+        <link href="https://blog.kisnows.com/archives/"/>
+        <updated>2022-12-07T23:10:59.423Z</updated>
+        <content type="html"><![CDATA[<div class="post-meta">
+<time itemprop="dateCreated" datetime="2017-09-20T16:27:33+08:00" content="2017-09-20">
+09-20
+</time>
+</div>
+<div class="post-title">
+<a class="post-title-link" href="/2017/09/20/react-source-code-analyze-4/" itemprop="url">
+<span itemprop="name">React 源码浅析之 - ReactElement</span>
+</a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React 源码浅析之 - ReactChildren]]></title>
+        <id>https://blog.kisnows.com/archives/</id>
+        <link href="https://blog.kisnows.com/archives/"/>
+        <updated>2022-12-07T23:10:59.424Z</updated>
+        <content type="html"><![CDATA[<div class="post-meta">
+<time itemprop="dateCreated" datetime="2017-09-20T16:19:09+08:00" content="2017-09-20">
+09-20
+</time>
+</div>
+<div class="post-title">
+<a class="post-title-link" href="/2017/09/20/react-source-code-analyze-3/" itemprop="url">
+<span itemprop="name">React 源码浅析之 - ReactChildren</span>
+</a>
+</div>]]></content>
     </entry>
 </feed>
