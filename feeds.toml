@@ -1,12 +1,12 @@
 [default]
-timeout = 600
+timeout = 1800
 
 [heartnn]
 title = "heartnn的自留地"
-url = "https://www.heartnn.com/"
-entrySelector = "article.post"
-titleSelector = "h2.post-title > a"
-linkSelector = "h2.post-title > a"
+url = "https://www.heartnn.com/archives/"
+entrySelector = "section > div > ul > li"
+titleSelector = "> a"
+linkSelector = "> a"
 
 
 [akarat]
