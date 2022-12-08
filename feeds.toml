@@ -4,4 +4,4 @@ url = "https://bestcherish.com/archive"
 entrySelector = "div.sya_postcontent"
 titleSelector = "a.sya_postlink"
 linkSelector = "a.sya_postlink"
-timeout = 2400
+timeout = 3600
