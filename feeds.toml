@@ -15,13 +15,13 @@ titleSelector = "> span > a"
 linkSelector = "> span > a"
 timeout = 120
 
-[bestcherish]
-title = "灰常记忆"
-url = "https://bestcherish.com/archive"
-entrySelector = "div.sya_postcontent"
-titleSelector = "a.sya_postlink"
-linkSelector = "a.sya_postlink"
-timeout = 120
+#[bestcherish]
+#title = "灰常记忆"
+#url = "https://bestcherish.com/archive"
+#entrySelector = "div.sya_postcontent"
+#titleSelector = "a.sya_postlink"
+#linkSelector = "a.sya_postlink"
+#timeout = 120
 
 [kisnows]
 title = "抹桥的博客"
