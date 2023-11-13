@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bestcherish.com/archive</id>
     <title>灰常记忆</title>
-    <updated>2023-11-09T02:32:14.417Z</updated>
+    <updated>2023-11-13T02:34:46.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bestcherish.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[一夜入冬]]></title>
+        <id>https://bestcherish.com/yi-ye-ru-dong.html</id>
+        <link href="https://bestcherish.com/yi-ye-ru-dong.html"/>
+        <updated>2023-11-13T02:34:45.713Z</updated>
+        <content type="html"><![CDATA[<span class="sya_date">11/11 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/yi-ye-ru-dong.html" class="sya_postlink post-9561" rel="bookmark">一夜入冬</a> <span class="sya_comments"><span class="sya_bracket">(</span>10<span class="sya_bracket">)</span></span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[折腾RSS]]></title>
         <id>https://bestcherish.com/zhe-teng-rss.html</id>
         <link href="https://bestcherish.com/zhe-teng-rss.html"/>
         <updated>2023-11-06T02:34:25.008Z</updated>
-        <content type="html"><![CDATA[<span class="sya_date">11/04 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/zhe-teng-rss.html" class="sya_postlink post-9542" rel="bookmark">折腾RSS</a> <span class="sya_comments"><span class="sya_bracket">(</span>9<span class="sya_bracket">)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="sya_date">11/04 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/zhe-teng-rss.html" class="sya_postlink post-9542" rel="bookmark">折腾RSS</a> <span class="sya_comments"><span class="sya_bracket">(</span>26<span class="sya_bracket">)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[妞宝两岁了]]></title>
         <id>https://bestcherish.com/niu-bao-liang-sui-le.html</id>
         <link href="https://bestcherish.com/niu-bao-liang-sui-le.html"/>
         <updated>2023-10-30T02:32:11.337Z</updated>
-        <content type="html"><![CDATA[<span class="sya_date">10/27 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/niu-bao-liang-sui-le.html" class="sya_postlink post-9539" rel="bookmark">妞宝两岁了</a> <span class="sya_comments"><span class="sya_bracket">(</span>10<span class="sya_bracket">)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="sya_date">10/27 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/niu-bao-liang-sui-le.html" class="sya_postlink post-9539" rel="bookmark">妞宝两岁了</a> <span class="sya_comments"><span class="sya_bracket">(</span>22<span class="sya_bracket">)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[立秋小记]]></title>
@@ -52,7 +59,7 @@
         <id>https://bestcherish.com/cha-dian-zhe-teng-dao-bi.html</id>
         <link href="https://bestcherish.com/cha-dian-zhe-teng-dao-bi.html"/>
         <updated>2023-04-17T02:41:28.035Z</updated>
-        <content type="html"><![CDATA[<span class="sya_date">04/13 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/cha-dian-zhe-teng-dao-bi.html" class="sya_postlink post-9457" rel="bookmark">差点折腾倒闭</a> <span class="sya_comments"><span class="sya_bracket">(</span>55<span class="sya_bracket">)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="sya_date">04/13 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/cha-dian-zhe-teng-dao-bi.html" class="sya_postlink post-9457" rel="bookmark">差点折腾倒闭</a> <span class="sya_comments"><span class="sya_bracket">(</span>56<span class="sya_bracket">)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[安心记录吧]]></title>
