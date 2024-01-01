@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss-source.github.io/feeds-other/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-28T02:33:37.516Z</updated>
+    <updated>2024-01-01T02:42:13.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[抓住2023的尾巴 (灰常记忆)]]></title>
+        <id>https://bestcherish.com/zhua-zhu-2023-de-wei-ba.html</id>
+        <link href="https://bestcherish.com/zhua-zhu-2023-de-wei-ba.html"/>
+        <updated>2024-01-01T02:42:12.348Z</updated>
+        <content type="html"><![CDATA[<span class="sya_date">12/31 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/zhua-zhu-2023-de-wei-ba.html" class="sya_postlink post-9575" rel="bookmark">抓住2023的尾巴</a> <span class="sya_comments"><span class="sya_bracket">(</span>1<span class="sya_bracket">)</span></span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一些事一些人 (灰常记忆)]]></title>
         <id>https://bestcherish.com/yi-xie-shi-yi-xie-ren.html</id>
         <link href="https://bestcherish.com/yi-xie-shi-yi-xie-ren.html"/>
         <updated>2023-12-14T02:35:49.300Z</updated>
-        <content type="html"><![CDATA[<span class="sya_date">12/13 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/yi-xie-shi-yi-xie-ren.html" class="sya_postlink post-9574" rel="bookmark">一些事一些人</a> <span class="sya_comments"><span class="sya_bracket">(</span>16<span class="sya_bracket">)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="sya_date">12/13 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/yi-xie-shi-yi-xie-ren.html" class="sya_postlink post-9574" rel="bookmark">一些事一些人</a> <span class="sya_comments"><span class="sya_bracket">(</span>18<span class="sya_bracket">)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[电台情缘 (灰常记忆)]]></title>
