@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bestcherish.com/archive</id>
     <title>灰常记忆</title>
-    <updated>2024-06-06T02:40:40.882Z</updated>
+    <updated>2024-06-10T02:44:06.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bestcherish.com/image/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[花都开好了]]></title>
+        <id>https://bestcherish.com/hua-dou-kai-hao-le.html</id>
+        <link href="https://bestcherish.com/hua-dou-kai-hao-le.html"/>
+        <updated>2024-06-10T02:44:05.113Z</updated>
+        <content type="html"><![CDATA[<span class="sya_date">06/08 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/hua-dou-kai-hao-le.html" class="sya_postlink post-9587" rel="bookmark">花都开好了</a> <span class="sya_comments"><span class="sya_bracket">(</span>8<span class="sya_bracket">)</span></span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[近期调整计划]]></title>
         <id>https://bestcherish.com/jin-qi-tiao-zheng-ji-hua.html</id>
