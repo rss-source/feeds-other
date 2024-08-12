@@ -2,99 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bestcherish.com/archive</id>
     <title>灰常记忆</title>
-    <updated>2024-08-08T02:47:00.904Z</updated>
+    <updated>2024-08-12T02:48:29.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://bestcherish.com/image/favicon-32x32.png</icon>
-    <entry>
-        <title type="html"><![CDATA[开始使用Debian]]></title>
-        <id>https://bestcherish.com/kai-shi-shi-yong-debian.html</id>
-        <link href="https://bestcherish.com/kai-shi-shi-yong-debian.html"/>
-        <updated>2024-08-08T02:46:59.841Z</updated>
-        <content type="html"><![CDATA[<span class="sya_date">08/01 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/kai-shi-shi-yong-debian.html" class="sya_postlink post-9590" rel="bookmark">开始使用Debian</a> <span class="sya_comments"><span class="sya_bracket">(</span>12<span class="sya_bracket">)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[测试新的Linux发行版]]></title>
-        <id>https://bestcherish.com/ce-shi-xin-de-linux-fa-xing-ban.html</id>
-        <link href="https://bestcherish.com/ce-shi-xin-de-linux-fa-xing-ban.html"/>
-        <updated>2024-08-08T02:46:59.842Z</updated>
-        <content type="html"><![CDATA[<span class="sya_date">07/02 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/ce-shi-xin-de-linux-fa-xing-ban.html" class="sya_postlink post-9589" rel="bookmark">测试新的Linux发行版</a> <span class="sya_comments"><span class="sya_bracket">(</span>44<span class="sya_bracket">)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[建站十三年]]></title>
-        <id>https://bestcherish.com/jian-zhan-shi-san-nian.html</id>
-        <link href="https://bestcherish.com/jian-zhan-shi-san-nian.html"/>
-        <updated>2024-08-08T02:46:59.842Z</updated>
-        <content type="html"><![CDATA[<span class="sya_date">06/22 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/jian-zhan-shi-san-nian.html" class="sya_postlink post-9588" rel="bookmark">建站十三年</a> <span class="sya_comments"><span class="sya_bracket">(</span>92<span class="sya_bracket">)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[花都开好了]]></title>
-        <id>https://bestcherish.com/hua-dou-kai-hao-le.html</id>
-        <link href="https://bestcherish.com/hua-dou-kai-hao-le.html"/>
-        <updated>2024-08-08T02:46:59.843Z</updated>
-        <content type="html"><![CDATA[<span class="sya_date">06/08 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/hua-dou-kai-hao-le.html" class="sya_postlink post-9587" rel="bookmark">花都开好了</a> <span class="sya_comments"><span class="sya_bracket">(</span>29<span class="sya_bracket">)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[近期调整计划]]></title>
-        <id>https://bestcherish.com/jin-qi-tiao-zheng-ji-hua.html</id>
-        <link href="https://bestcherish.com/jin-qi-tiao-zheng-ji-hua.html"/>
-        <updated>2024-08-08T02:46:59.843Z</updated>
-        <content type="html"><![CDATA[<span class="sya_date">05/16 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/jin-qi-tiao-zheng-ji-hua.html" class="sya_postlink post-9584" rel="bookmark">近期调整计划</a> <span class="sya_comments"><span class="sya_bracket">(</span>67<span class="sya_bracket">)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[屋漏偏逢连夜雨]]></title>
-        <id>https://bestcherish.com/wu-lou-pian-feng-lian-ye-yu.html</id>
-        <link href="https://bestcherish.com/wu-lou-pian-feng-lian-ye-yu.html"/>
-        <updated>2024-08-08T02:46:59.843Z</updated>
-        <content type="html"><![CDATA[<span class="sya_date">05/05 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/wu-lou-pian-feng-lian-ye-yu.html" class="sya_postlink post-9581" rel="bookmark">屋漏偏逢连夜雨</a> <span class="sya_comments"><span class="sya_bracket">(</span>39<span class="sya_bracket">)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[换了大盘机]]></title>
-        <id>https://bestcherish.com/huan-le-da-pan-ji.html</id>
-        <link href="https://bestcherish.com/huan-le-da-pan-ji.html"/>
-        <updated>2024-08-08T02:46:59.843Z</updated>
-        <content type="html"><![CDATA[<span class="sya_date">04/25 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/huan-le-da-pan-ji.html" class="sya_postlink post-9580" rel="bookmark">换了大盘机</a> <span class="sya_comments"><span class="sya_bracket">(</span>76<span class="sya_bracket">)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[友情不链接]]></title>
-        <id>https://bestcherish.com/you-qing-bu-lian-jie.html</id>
-        <link href="https://bestcherish.com/you-qing-bu-lian-jie.html"/>
-        <updated>2024-08-08T02:46:59.844Z</updated>
-        <content type="html"><![CDATA[<span class="sya_date">04/14 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/you-qing-bu-lian-jie.html" class="sya_postlink post-9579" rel="bookmark">友情不链接</a> <span class="sya_comments"><span class="sya_bracket">(</span>72<span class="sya_bracket">)</span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[迟来的记录]]></title>
-        <id>https://bestcherish.com/chi-lai-de-ji-lu.html</id>
-        <link href="https://bestcherish.com/chi-lai-de-ji-lu.html"/>
-        <updated>2024-08-08T02:46:59.844Z</updated>
-        <content type="html"><![CDATA[<span class="sya_date">03/30 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/chi-lai-de-ji-lu.html" class="sya_postlink post-9578" rel="bookmark">迟来的记录</a> <span class="sya_comments"><span class="sya_bracket">(</span>54<span class="sya_bracket">)</span></span>]]></content>
-    </entry>
+    <icon>https://bestcherish.com/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[龙年大吉]]></title>
         <id>https://bestcherish.com/long-nian-da-ji.html</id>
         <link href="https://bestcherish.com/long-nian-da-ji.html"/>
         <updated>2024-08-08T02:46:59.857Z</updated>
-        <content type="html"><![CDATA[<span class="sya_date">02/09 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/long-nian-da-ji.html" class="sya_postlink post-9577" rel="bookmark">龙年大吉</a> <span class="sya_comments"><span class="sya_bracket">(</span>36<span class="sya_bracket">)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="sya_date">02/09 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/long-nian-da-ji.html" class="sya_postlink post-9577" rel="bookmark">龙年大吉</a> <span class="sya_comments"><span class="sya_bracket">(</span>11<span class="sya_bracket">)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[未命名]]></title>
         <id>https://bestcherish.com/wei-ming-ming.html</id>
         <link href="https://bestcherish.com/wei-ming-ming.html"/>
         <updated>2024-08-08T02:46:59.857Z</updated>
-        <content type="html"><![CDATA[<span class="sya_date">01/23 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/wei-ming-ming.html" class="sya_postlink post-9576" rel="bookmark">未命名</a> <span class="sya_comments"><span class="sya_bracket">(</span>30<span class="sya_bracket">)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="sya_date">01/23 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/wei-ming-ming.html" class="sya_postlink post-9576" rel="bookmark">未命名</a> <span class="sya_comments"><span class="sya_bracket">(</span>13<span class="sya_bracket">)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[抓住2023的尾巴]]></title>
         <id>https://bestcherish.com/zhua-zhu-2023-de-wei-ba.html</id>
         <link href="https://bestcherish.com/zhua-zhu-2023-de-wei-ba.html"/>
         <updated>2024-08-08T02:46:59.857Z</updated>
-        <content type="html"><![CDATA[<span class="sya_date">12/31 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/zhua-zhu-2023-de-wei-ba.html" class="sya_postlink post-9575" rel="bookmark">抓住2023的尾巴</a> <span class="sya_comments"><span class="sya_bracket">(</span>24<span class="sya_bracket">)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="sya_date">12/31 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/zhua-zhu-2023-de-wei-ba.html" class="sya_postlink post-9575" rel="bookmark">抓住2023的尾巴</a> <span class="sya_comments"><span class="sya_bracket">(</span>12<span class="sya_bracket">)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[一些事一些人]]></title>
         <id>https://bestcherish.com/yi-xie-shi-yi-xie-ren.html</id>
         <link href="https://bestcherish.com/yi-xie-shi-yi-xie-ren.html"/>
         <updated>2024-08-08T02:46:59.857Z</updated>
-        <content type="html"><![CDATA[<span class="sya_date">12/13 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/yi-xie-shi-yi-xie-ren.html" class="sya_postlink post-9574" rel="bookmark">一些事一些人</a> <span class="sya_comments"><span class="sya_bracket">(</span>35<span class="sya_bracket">)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="sya_date">12/13 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/yi-xie-shi-yi-xie-ren.html" class="sya_postlink post-9574" rel="bookmark">一些事一些人</a> <span class="sya_comments"><span class="sya_bracket">(</span>18<span class="sya_bracket">)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[电台情缘]]></title>
@@ -108,7 +45,7 @@
         <id>https://bestcherish.com/zui-jin-zhe-teng-de-dong-xi.html</id>
         <link href="https://bestcherish.com/zui-jin-zhe-teng-de-dong-xi.html"/>
         <updated>2024-08-08T02:46:59.857Z</updated>
-        <content type="html"><![CDATA[<span class="sya_date">11/20 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/zui-jin-zhe-teng-de-dong-xi.html" class="sya_postlink post-9572" rel="bookmark">最近折腾的东西</a> <span class="sya_comments"><span class="sya_bracket">(</span>54<span class="sya_bracket">)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="sya_date">11/20 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/zui-jin-zhe-teng-de-dong-xi.html" class="sya_postlink post-9572" rel="bookmark">最近折腾的东西</a> <span class="sya_comments"><span class="sya_bracket">(</span>52<span class="sya_bracket">)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[一夜入冬]]></title>
@@ -1991,6 +1928,6 @@
         <id>https://bestcherish.com/life-quietly-think-you.html</id>
         <link href="https://bestcherish.com/life-quietly-think-you.html"/>
         <updated>2024-08-08T02:47:00.257Z</updated>
-        <content type="html"><![CDATA[<span class="sya_date">06/22 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/life-quietly-think-you.html" class="sya_postlink post-14" rel="bookmark">安静地想你</a> <span class="sya_comments"><span class="sya_bracket">(</span>7<span class="sya_bracket">)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="sya_date">06/22 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/life-quietly-think-you.html" class="sya_postlink post-14" rel="bookmark">安静地想你</a> <span class="sya_comments"><span class="sya_bracket">(</span>5<span class="sya_bracket">)</span></span>]]></content>
     </entry>
 </feed>
