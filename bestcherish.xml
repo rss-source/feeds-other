@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bestcherish.com/archive</id>
     <title>灰常记忆</title>
-    <updated>2024-11-28T03:09:57.047Z</updated>
+    <updated>2024-12-02T03:13:26.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bestcherish.com/image/favicon-32x32.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://bestcherish.com/you-dao-xu-fei-shi.html</id>
         <link href="https://bestcherish.com/you-dao-xu-fei-shi.html"/>
         <updated>2024-11-25T03:09:11.519Z</updated>
-        <content type="html"><![CDATA[<span class="sya_date">11/11 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/you-dao-xu-fei-shi.html" class="sya_postlink post-9596" rel="bookmark">又到续费时</a> <span class="sya_comments"><span class="sya_bracket">(</span>51<span class="sya_bracket">)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="sya_date">11/11 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/you-dao-xu-fei-shi.html" class="sya_postlink post-9596" rel="bookmark">又到续费时</a> <span class="sya_comments"><span class="sya_bracket">(</span>61<span class="sya_bracket">)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[妞宝三岁了]]></title>
@@ -38,7 +38,7 @@
         <id>https://bestcherish.com/kai-shi-shi-yong-debian.html</id>
         <link href="https://bestcherish.com/kai-shi-shi-yong-debian.html"/>
         <updated>2024-11-25T03:09:11.540Z</updated>
-        <content type="html"><![CDATA[<span class="sya_date">08/01 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/kai-shi-shi-yong-debian.html" class="sya_postlink post-9590" rel="bookmark">开始使用Debian</a> <span class="sya_comments"><span class="sya_bracket">(</span>36<span class="sya_bracket">)</span></span>]]></content>
+        <content type="html"><![CDATA[<span class="sya_date">08/01 <span class="sya_sep">— </span></span><a href="https://bestcherish.com/kai-shi-shi-yong-debian.html" class="sya_postlink post-9590" rel="bookmark">开始使用Debian</a> <span class="sya_comments"><span class="sya_bracket">(</span>38<span class="sya_bracket">)</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[测试新的Linux发行版]]></title>
